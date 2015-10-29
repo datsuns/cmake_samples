@@ -1,3 +1,7 @@
 add_library(sample_shared_lib SHARED
-  lib.cpp
+  shared_lib.cpp
+  )
+
+add_library(sample_static_lib STATIC
+  static_lib.cpp
   )

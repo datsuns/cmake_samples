@@ -1,6 +1,6 @@
 #include  <iostream>
 
-#include "lib.h"
+#include "shared_lib.h"
 
 using std::cout;
 using std::endl;
